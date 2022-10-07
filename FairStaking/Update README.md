@@ -13,7 +13,7 @@ To receive and maintain delegation from the Agoric OpCo, I, FairStaking hereby c
 10. I commit to network contributions listed below:
 
 Category 1: Infrastructure
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint, I will run a Chainlink oracle node for Agoric and participate in the oracle community supporting Agoric
+I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint, I will run a Chainlink oracle node for Agoric and participate in the oracle community supporting Agoric. (https://devnet.explorer.agoric.net/agoric/staking/agoricvaloper12n75jqq8qsgj7u75g9faw5h4nuxzly64yx6nn9)
 
 Category 2: Community Growth
 I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels, I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates
